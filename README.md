@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-### [Live Site](https://gericht-restaurant.com/)
+### [Live Site](https://stellar-cupcake-25ea7a.netlify.app/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
